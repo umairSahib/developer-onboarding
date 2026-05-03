@@ -1,0 +1,23 @@
+ONBOARDING REPORT
+
+Generated at: 2026-04-22T08:12:37.107Z
+
+SUMMARY
+Installed: 1
+Skipped: 0
+Failed: 0
+
+TOOLS
+- check_installed_versions: installed (Executed successfully)
+
+RESULTS
+- Installed versions report:
+- mysql: 8.0.45
+- postgresql: 14.22
+- redis: 6.0.16
+- php: 8.3.30
+- node: 18.3
+- npm: 10.8.2
+- git: 2.34.1
+- curl: 7.81.0
+- Installed: 8/8

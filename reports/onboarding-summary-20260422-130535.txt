@@ -1,0 +1,22 @@
+Onboarding Summary
+==================
+Generated at: 2026-04-22T08:05:35.702Z
+
+Installed: 1
+Skipped: 0
+Failed: 0
+
+Details:
+- check_installed_versions: installed (Executed successfully)
+
+Agent Results:
+- check_installed_versions: 🧾 Installed versions report:
+- check_installed_versions: ✅ mysql: mysql  Ver 8.0.45-0ubuntu0.22.04.1 for Linux on x86_64 ((Ubuntu))
+- check_installed_versions: ✅ postgresql: psql (PostgreSQL) 14.22 (Ubuntu 14.22-0ubuntu0.22.04.1)
+- check_installed_versions: ✅ redis: Redis server v=6.0.16 sha=00000000:0 malloc=jemalloc-5.2.1 bits=64 build=e91d7986ac6d5bb6
+- check_installed_versions: ✅ php: PHP 8.3.30 (cli) (built: Feb 13 2026 15:58:45) (NTS)
+- check_installed_versions: ✅ node: v20.18.3
+- check_installed_versions: ✅ npm: 10.8.2
+- check_installed_versions: ✅ git: git version 2.34.1
+- check_installed_versions: ✅ curl: curl 7.81.0 (x86_64-pc-linux-gnu) libcurl/7.81.0 OpenSSL/3.0.2 zlib/1.2.11 brotli/1.0.9 zstd/1.4.8 libidn2/2.3.2 libpsl/0.21.0 (+libidn2/2.3.2) libssh/0.9.6/openssl/zlib nghttp2/1.43.0 librtmp/2.3 OpenLDAP/2.5.18
+- check_installed_versions: 📌 Installed: 8/8
